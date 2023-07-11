@@ -10,9 +10,9 @@
   
   
   
-- قم بعمل fork للـ repository
-- قم بعمل clone للـ repository
-- افتح ملف main.py
+- حمل الـ repository (هذا الفولدر)
+- افتح الملف في VS Code
+- قم بانشاء ملف main.py
 - قم بانشاء function باسم my_name 
 - اجعل الـ function تقوم بطباعة اسمك بهذا الشكل:
 
